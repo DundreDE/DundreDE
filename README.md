@@ -2,7 +2,7 @@
   <h1>Hello there, I'm Native</h1>
   <img src="neues LOGO.jpg" width="200" />
   <p>I´m a young code. I wrote my first code 2021</p>
-  my actually skills are
+  my actually skills are lul
 </div>
 
 
