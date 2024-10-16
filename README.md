@@ -26,5 +26,5 @@ Check out my personal website for more projects and updates!
 
 ---
 
-dundrede.github.io/links
+https://dundrede.github.io/links
 
