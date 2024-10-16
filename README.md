@@ -6,7 +6,7 @@ I'm a young coder who wrote my first lines of code in 2021, and I've been on a (
 - **Name:** Native (but you already knew that 😎)
 - **Started coding:** 2021
 - **Current skills:** 
-  - **Tailwind CSS** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="16" height="16"/> (my favorite tool for styling!)
+  - **Tailwind CSS** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="16" height="16"/> (my favorite tool for styling!)
   - **HTML** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/50px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="16" height="16"/>
   - **CSS** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/50px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="16" height="16"/>
   - **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="16" height="16"/> (trying not to break the web)
@@ -22,4 +22,5 @@ I'm a young coder who wrote my first lines of code in 2021, and I've been on a (
 Feel free to check out my repositories, laugh at my bugs (or help me fix them), and watch me evolve from *"skills are lul"* to *"skills are cool"*!
 
 Happy coding!
+
 
