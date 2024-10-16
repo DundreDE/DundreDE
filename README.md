@@ -1,16 +1,28 @@
-<div id="header" align="center">
-  <h1>Hello there, I'm Native</h1>
-  <img src="neues LOGO.jpg" width="200" />
-  <p>I´m a young code. I wrote my first code 2021</p>
-  my actually skills are lul
-</div>
+# Hello there, I'm Native 👋
 
+I'm a young coder who wrote my first lines of code in 2021, and I've been on a (sometimes chaotic) coding journey ever since!
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"width="40"  />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"width="40"  />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"width="40"  />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"  />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="40"/>&nbsp;
-</div>      
+## A little about me:
+- **Name:** Native (but you already knew that 😎)
+- **Started coding:** 2021
+- **Current skills:** 
+  - **Tailwind CSS** (my favorite tool for styling!)
+  - HTML
+  - CSS
+  - JavaScript (trying not to break the web)
+  - Python (the snake that doesn't bite... I hope)
+  - Learning React Native next (yeah, that name suits me perfectly)
+  - 😂 "lol" might describe my overall coding experience... but we're getting there!
+
+## What you'll find here:
+- Projects that sometimes work (but hey, it's all about learning)
+- Code that may or may not be optimized
+- A whole lot of enthusiasm and improvement over time 🚀
+
+Feel free to check out my repositories, laugh at my bugs (or help me fix them), and watch me evolve from *"skills are lul"* to *"skills are cool"*!
+
+Happy coding!
+
+---
+
+📫 Reach me: [Insert Your Contact Info Here]
