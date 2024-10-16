@@ -21,6 +21,10 @@ I'm a young coder who wrote my first lines of code in 2021, and I've been on a (
 
 Feel free to check out my repositories, laugh at my bugs (or help me fix them), and watch me evolve from *"skills are lul"* to *"skills are cool"*!
 
-Happy coding!
+## My Site
+Check out my personal website for more projects and updates!
 
+---
+
+dundrede.github.io/links
 
