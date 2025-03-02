@@ -3,7 +3,7 @@
 I'm a young coder who wrote my first lines of code in 2021, and I've been on a (sometimes chaotic) coding journey ever since!
 
 ## A little about me:
-- **Name:** Native (but you already knew that 😎)
+- **Name:** Jakob
 - **Started coding:** 2021
 - **Current skills:** 
   - **Tailwind CSS** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="16" height="16"/> (my favorite tool for styling!)
