@@ -4,7 +4,7 @@ I'm a young coder who wrote my first lines of code in 2021, and I've been on a (
 
 ## A little about me:
 - **Name:** Jakob
-- **Started coding:** 2021
+- **Started coding:** 2018
 - **Current skills:** 
   - **Tailwind CSS** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="16" height="16"/> (my favorite tool for styling!)
   - **HTML** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/50px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="16" height="16"/>
